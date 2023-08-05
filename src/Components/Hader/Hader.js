@@ -6,7 +6,7 @@ return(
      <div class="container">
 
  <a href="#"class="navbar-brand">
-     <div classname="imge"></div>
+     <div className="imagee"> <img src={process.env.PUBLIC_URL+'public/Images/Mynlogo1.png'} /></div>
  </a>
 
  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainmenu">
